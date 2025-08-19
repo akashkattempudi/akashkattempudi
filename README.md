@@ -10,7 +10,7 @@ An **Aspiring QA Engineer (Automation + Manual)** from India
 
 🌱 Learning **Java (Selenium, TestNG, Cucumber)** to expand automation skills
 
-👨‍💻 All of my projects are available here on [GitHub](https://github.com/akashkattempudi)
+👨‍💻 Check out all my projects here on [GitHub](https://github.com/akashkattempudi)
 
 💬 Ask me about: **Test Automation (Selenium + Pytest + BDD), Manual Testing (Functional & Regression), API Testing, SQL Queries & Database Validation, CI/CD (GitHub, Jenkins)**
 
