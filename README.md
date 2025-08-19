@@ -24,8 +24,6 @@ An **Aspiring QA Engineer (Automation + Manual)** from India
 
 ---
 
----
-
 ## 🛠️ Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -40,15 +38,10 @@ An **Aspiring QA Engineer (Automation + Manual)** from India
 
 ---
 
----
-
 ## 🤝 Connect with me 
 
 - [LinkedIn](https://www.linkedin.com/in/akash-kattempudi-a01810174/)  
 - [GitHub](https://github.com/akashkattempudi)  
 - [Email](mailto:akashkattempudi002@gmail.com)  
 
-
 ---
-
-
