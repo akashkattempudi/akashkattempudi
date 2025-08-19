@@ -46,5 +46,3 @@ An **Aspiring QA Engineer (Automation + Manual)** from India
 - [LinkedIn](https://www.linkedin.com/in/akash-kattempudi-a01810174/)  
 - [GitHub](https://github.com/akashkattempudi)  
 - [Email](mailto:akashkattempudi002@gmail.com)  
-
----
