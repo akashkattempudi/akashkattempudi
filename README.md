@@ -6,7 +6,7 @@ An **Aspiring QA Engineer (Automation + Manual)** from India
 
 📝 Passionate about **Software Testing, Automation, and Quality Assurance**
 
-🔭 Currently working on **API Testing (Postman, Python Requests)**
+🔭 Currently working on **Python Database Validations (MySQL)**
 
 🌱 Learning **Java (Selenium, TestNG, Cucumber)** to expand automation skills
 
@@ -23,6 +23,7 @@ An **Aspiring QA Engineer (Automation + Manual)** from India
 - [Automation Testing Framework – E-Commerce Site](https://github.com/akashkattempudi/ecommerce-automation-selenium-pytest-bdd)  
 - [Restaurant Database Project](https://github.com/akashkattempudi/restaurant-db-project)  
 - [Manual Testing – Satya Sai Grama App](https://github.com/akashkattempudi/SSG-Mobile-Manual-Testing)  
+- [API Automation Suite](https://github.com/akashkattempudi/api-automation-suite)  <!-- New project added -->
 
 ---
 
@@ -39,7 +40,6 @@ An **Aspiring QA Engineer (Automation + Manual)** from India
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
 
 ---
 
