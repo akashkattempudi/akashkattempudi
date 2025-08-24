@@ -20,10 +20,10 @@ An **Aspiring QA Engineer (Automation + Manual)** from India
 
 ## 🚀 Featured QA Projects
 
-- [Automation Testing Framework – E-Commerce Site](https://github.com/akashkattempudi/ecommerce-automation-selenium-pytest-bdd)  
+- [Automation Testing Framework – E-Commerce Site](https://github.com/akashkattempudi/ecommerce-automation-selenium-pytest-bdd)
+- [API Automation Suite](https://github.com/akashkattempudi/api-automation-suite) 
 - [Restaurant Database Project](https://github.com/akashkattempudi/restaurant-db-project)  
 - [Manual Testing – Satya Sai Grama App](https://github.com/akashkattempudi/SSG-Mobile-Manual-Testing)  
-- [API Automation Suite](https://github.com/akashkattempudi/api-automation-suite)  <!-- New project added -->
 
 ---
 
